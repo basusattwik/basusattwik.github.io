@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am an electrical engineer with an applied research background in audio signal processing and machine learning and a passion for music. 
 
-I will be joining the [Dept. of ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) as a Ph.D. student this fall. I will be advised by Professor [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) as part of the [SyNRG](https://synrg.csl.illinois.edu) lab and work on solving problems in the field of audio signal processing and deep lsearning.
+I will be joining the [Dept. of ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) as a Ph.D. student this fall. I will be advised by Professor [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) at the [SyNRG](https://synrg.csl.illinois.edu) lab and work on solving problems in the field of audio using a combination of analytical and data-driven models. 
 
 I currently work as a Senior Audio DSP Engineer at [HARMAN](https://www.harman.com) and have contributed to the research and development of a number of algorithms for [car audio](https://car.harman.com/solutions/car-audio) applications. Prior to that, I earned my M.S. degree in [Electrical Engineering](http://www.hajim.rochester.edu/ece/) with a concentration in musical acoustics and signal processing from the [University of Rochester](https://www.rochester.edu). I obtained my B.Tech degree in Electrical & Electronics Engineering from SRM University, India. The major research areas and projects I have worked on in the last few years include adaptive signal processing, music information retrieval and deep learning based audio processing.
 
