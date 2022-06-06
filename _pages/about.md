@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am an electrical engineer with a background in applied research in Audio Signal Processing and Machine Learning. 
+Hi there! I am an electrical engineer with an applied research background in audio signal processing and machine learning and a passion for music. 
 
-From August I will begin my Ph.D. in the [Dept. of ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu). I will be advised by Professor [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) as part of the [SyNRG](https://synrg.csl.illinois.edu) lab and work on challenging problems in the field of Computational Audio and Deep Learning.
+I will be joining the [Dept. of ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) as a Ph.D. student this fall. I will be advised by Professor [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) as part of the [SyNRG](https://synrg.csl.illinois.edu) lab and work on solving problems in the field of computational audio using signal processing and deep lsearning.
 
-I currently work as a Senior Audio DSP Engineer at [HARMAN](https://www.harman.com) and have contributed towards the research and development of multiple audio algorithms for applications in [Car Audio](https://car.harman.com/solutions/car-audio) systems. Prior to joining HARMAN, I earned my Master's degree from the [Dept. of ECE](http://www.hajim.rochester.edu/ece/) at the [University of Rochester](https://www.rochester.edu) with a concentration in Musical Acoustics and Signal Processing. The major focus areas I have worked on include adaptive signal processing, active noise cancellation and audio source separation.
+I currently work as a Senior Audio DSP Engineer at [HARMAN](https://www.harman.com) and have contributed towards the research and development of a variety of audio algorithms for [car audio](https://car.harman.com/solutions/car-audio) applications. Prior to joining HARMAN, I earned my M.S. degree from the [Dept. of ECE](http://www.hajim.rochester.edu/ece/) at the [University of Rochester](https://www.rochester.edu) with a concentration in Musical Acoustics and Signal Processing. I completed my B.Tech degree in Electrical & Electronics Engineering from SRM University, India. The major research areas I have worked on in the past few years include adaptive signal processing, and deep learning based musical polyphony estimation and source separation.
 
-When I am not working on signal processing, I spend most of my time playing classical piano and guitar. I have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu/community/) and [K.M. Music Conservatory, Chennai](https://www.kmmc.in).
+When I am not working on audio, I spend most of my time listening to and playing classical piano and guitar. I have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu/community/) and [K.M. Music Conservatory, India](https://www.kmmc.in).
 
