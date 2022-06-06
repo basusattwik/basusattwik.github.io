@@ -5,6 +5,9 @@ main:
 
   #- title: "Talks"
   #  url: /talks/
+  
+  - title: "Experience"
+    url: /experience/
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,11 +21,11 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Music"
+    url: /music/
+    
   - title: "Contact"
     url: /contact/
-    
-  - title: "Experience"
-    url: /experience/
     
   #- title: "Guide"
   #  url: /markdown/
