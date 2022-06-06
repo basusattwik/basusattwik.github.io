@@ -83,11 +83,11 @@ author:
   name             : "Sattwik Basu"
   avatar           : "websiteProfile.png"
   bio              : "Signal Processing, Machine Learning, Music"
-  location         : #"Location"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PLqR6ccAAAAJ&hl=en"
-  email            : "sattwik2@illinois.edu"
+  email            : #"sattwik2@illinois.edu"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
