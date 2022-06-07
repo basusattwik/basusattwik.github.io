@@ -9,6 +9,8 @@ author_profile: true
 ### Senior Audio DSP Engineer, Feb - June 2022<br>
 * Invented adaptive algorithms for musical interference cancellation and online secondary path IR estimation to prevent
 MFxLMS ANC systems from misadjusting due to the presence of music signals or changes in cabin acoustics
+* Developed LPC based noise shaping and power scheduling techniques to mask the presence of auxiliary noise used in online
+secondary path estimation algorithms
 
 ### Audio DSP Engineer, July 2018 - Feb 2022<br>
 * Developed a narrowband active road noise cancellation algorithm. Implemented a real-time frequency estimator by applying FFT Zoom and Spectral Centroids on accelerometer signals to provide an accurate reference to the ANC algorithm. Developed mathematical models to theoretically describe the tradeoffs between stepsize, leakage, notch filter response, and out-of- band noise boosting
