@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Musical Polyphony Estimation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-05-14-polyphony-estimation
+date: 2018-05-14
+venue: 'Proceedings of the Audio Engineering Society, Convention 144'
+paperurl: 'http://www.aes.org/e-lib/browse.cfm?elib=19547'
+citation: S.  Kareer, and  S.   Basu, "Musical Polyphony Estimation," Engineering Brief 434, (2018 May.)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Knowing the number of sources present in a mixture is useful for many computer audition problems such as polyphonic music transcription, source separation, and speech enhancement. Most existing algorithms for these applications require the user to provide this number thereby limiting the possibility of complete automatization. In this paper we explore a few probabilistic and machine learning approaches for an autonomous source number estimation. We then propose an implementation of a multi-class classification method using convolutional neural networks for musical polyphony estimation. In addition, we use these results to improve the performance of an instrument classifier based on the same dataset. Our final classification results for both the networks, prove that this method is a promising starting point for further advancements in unsupervised source counting and separation algorithms for music and speech.
