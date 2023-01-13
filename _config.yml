@@ -83,7 +83,7 @@ author:
   name             : "Sattwik Basu"
   avatar           : "websiteProfile.png"
   bio              : "Signal Processing, Machine Learning, Music"
-  location         : "Pittsburgh, PA"
+  location         : #"Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PLqR6ccAAAAJ&hl=en"
