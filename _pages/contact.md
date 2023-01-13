@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-241 Coordinated Science Laboratory<br>
+Coordinated Science Laboratory<br>
 University of Illinois at Urbana-Champaign<br>
 1308 W. Main Street<br>
 Urbana, IL 61801<br>
