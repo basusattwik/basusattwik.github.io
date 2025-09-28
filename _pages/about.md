@@ -19,11 +19,11 @@ When I am not working on audio, I spend most of my time listening to and playing
 
 ## Updates
 
-- **05-2025** — Paper “Can NeRFs See without Cameras?” accepted at NeurIPS 2025.  
+- **May 2025** — Paper “Can NeRFs See without Cameras?” accepted at NeurIPS 2025.  
 
-- **12-2024** — Paper “Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo” accepted at ICASSP 2025.  
+- **Dec 2024** — Paper “Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo” accepted at ICASSP 2025.  
 
-- **12-2023** — Passed the ECE Qual Exam.
+- **Dec 2023** — Passed the ECE Qual Exam.
 
-- **08-2022** — Joined the Ph.D. program in ECE at UIUC.
+- **Aug 2022** — Joined the Ph.D. program in ECE at UIUC.
 
