@@ -19,13 +19,11 @@ When I am not working on audio, I spend most of my time listening to and playing
 
 ## Updates
 
-<!-- Keep newest at the top. Use YYYY-MM for dates. -->
+- **05-2025** — Paper “Can NeRFs See without Cameras?” accepted at NeurIPS 2025.  
 
-- **YYYY-MM** — Paper **“Paper Title #2”** accepted to **Conference/Journal**.  
-  _Optional:_ [preprint](#) · [code](#)
+- **12-2024** — Paper “Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo” accepted at ICASSP 2025.  
 
-- **YYYY-MM** — Paper **“Paper Title #1”** accepted to **Conference/Journal**.  
-  _Optional:_ [preprint](#) · [code](#)
+- **12-2023** — Passed the ECE Qual Exam.
 
-- **YYYY-MM** — Joined the **Ph.D. program in ECE at UIUC** (advisor: Romit Roy Choudhury)
+- **08-2022** — Joined the Ph.D. program in ECE at UIUC.
 
