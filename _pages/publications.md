@@ -11,15 +11,15 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ---
 
-## Conference & Workshop Papers
+### Conference & Workshop Papers
 
 - **Can NeRFs See without Cameras?**  
-  _Author1_, _Author2_, **Your Name**, _Author4_  
+  Chaitanya Amballa, Sattwik Basu, Yu-Lin Wei, Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
   NeurIPS 2025.  
   [Paper](#) · [Code](#) · [Project Page](#)
 
-- **Curvature-guided Langevin Monte Carlo**  
-  **Your Name**, _Author2_, _Author3_  
+- **Estimating Multi-chirp parameters using Curvature-guided Langevin Monte Carlo**  
+  Sattwik Basu, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury 
   ICASSP 2025.  
   [Paper](#) · [Code](#)
 
@@ -30,7 +30,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ---
 
-## Journal Articles
+<!-- ## Journal Articles
 
 - **Title of Journal Article 1**  
   **Your Name**, _Co-authors_  
@@ -40,14 +40,14 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 - **Title of Journal Article 2**  
   **Your Name**, _Co-authors_  
   Journal Name, Volume(Issue), Year.  
-  [Paper](#)
+  [Paper](#) -->
 
 ---
 
 ## Preprints
 
-- **Title of Preprint 1**  
-  **Your Name**, _Co-authors_  
+- **Contrastive Diffusion Guidance for Spatial Inverse Problems**  
+  Sattwik Basu, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury 
   arXiv:xxxx.xxxxx, Year.  
   [arXiv](#) · [Code](#)
 
