@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ---
 
-### Conference Papers
+## Conference Papers
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** *(preprint)* · [paper](https://arxiv.org/pdf/2509.26489?) · [code](https://github.com/coguide/coguide) · [website](https://coguide.github.io)  
 Sattwik Basu, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
@@ -36,3 +36,23 @@ Audio Engineering Society Convention 2018.
 **Bringing a Concert Home** · [paper](https://aes2.org/publications/elibrary-page/?id=19341)  
 Sattwik Basu, Saarish Kareer  
 Audio Engineering Society Convention 2017.
+
+--- 
+
+## Patents
+
+**A Method for Generating an Imperceptible Stimulus Signal for Online Secondary Path Estimation**  
+Kevin Bastyr, Sattwik Basu, Jeffrey Tackett, David Trumpy  
+US Patent App. 18/462,223
+
+**An Adaptive Secondary Path Algorithm using IR Fingerprinting for Multichannel ANC Systems**  
+Sattwik Basu, Kevin Bastyr, Jeffrey Tackett, David Trumpy, Geon Kim, Tao Feng  
+US Patent 12,230,241
+
+**System and Method for Estimating Secondary Path Impulse Response for Active Noise Cancellation**  
+Sattwik Basu, Jeffrey Tackett  
+US Patent 12,249,310
+
+**Virtual Location Noise Signal Estimation for Engine Order Cancellation**  
+Sattwik Basu, Jeffrey Tackett, David Trumpy, Todd Tousignant, James May  
+US Patent 11,183,166
