@@ -1,20 +1,3 @@
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 ---
 layout: archive
 title: "Publications"
@@ -28,7 +11,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ---
 
-## Conference Papers
+## Conference & Workshop Papers
 
 - **Can NeRFs See without Cameras?**  
   _Author1_, _Author2_, **Your Name**, _Author4_  
@@ -45,12 +28,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
   Venue, Year.  
   [Paper](#) · [Code](#) · [Project Page](#)
 
-- **Title of Paper 4**  
-  **Your Name**, _Co-authors_  
-  Venue, Year.  
-  [Paper](#) · [Code](#) · [Project Page](#)
-
-<!-- ---
+---
 
 ## Journal Articles
 
@@ -64,7 +42,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
   Journal Name, Volume(Issue), Year.  
   [Paper](#)
 
---- -->
+---
 
 ## Preprints
 
