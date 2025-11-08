@@ -15,18 +15,18 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 - **Contrastive Diffusion Guidance for Spatial Inverse Problems** *(preprint)*  
   Sattwik Basu, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
-  arXiv:xxxx.xxxxx, 2025.  
-  [arXiv](#) · [Code](#)
+  arXiv, 2025.  
+  [paper](https://arxiv.org/pdf/2509.26489?) · [Code](https://github.com/coguide/coguide) · [Website](https://coguide.github.io) 
 
 - **Can NeRFs See without Cameras?**  
   Chaitanya Amballa, Sattwik Basu, Yu-Lin Wei, Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
   NeurIPS 2025.  
-  [Paper](#) · [Code](#) · [Project Page](#)
+  [Paper](https://arxiv.org/pdf/2505.22441) · [Website](https://echonerf.github.io)
 
 - **Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo**  
   Sattwik Basu, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury  
   ICASSP 2025.  
-  [Paper](#) · [Code](#)
+  [Paper](https://arxiv.org/pdf/2501.18178?) · [Code](https://github.com/basusattwik/ChirpEstimation)
 
 - **Study of the Effects of Active Noise Cancellation on Music Playback**  
   Sattwik Basu, Jeff Tackett, David Trumpy, Adam Walt, Santosh Adari  
