@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/experience.md
 keep_files:
   - .git
   - .svn
