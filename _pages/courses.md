@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Courses"
+# title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
 
-## Courses I Have TAed
+## Teaching Assistant
 
 ### University of at Illinois Urbana-Champaign
 - [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-fa25) 
