@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ## Conference Papers
 
-**Contrastive Diffusion Guidance for Spatial Inverse Problems** *(preprint)* · [paper](https://arxiv.org/pdf/2509.26489?) · [code](https://github.com/coguide/coguide) · [website](https://coguide.github.io)  
+**Contrastive Diffusion Guidance for Spatial Inverse Problems** *(preprint)* · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
 Sattwik Basu, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
 arXiv, 2025.
 
