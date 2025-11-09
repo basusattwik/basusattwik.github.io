@@ -40,3 +40,12 @@ $link-color: #b36b00;
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom link style overrides
+.page__content a,
+.page__content a:visited {
+  text-decoration: none;
+  box-shadow: none;
+  border-bottom: none;
+}
+
