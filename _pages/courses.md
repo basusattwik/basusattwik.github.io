@@ -13,7 +13,7 @@ author_profile: true
 
 ### University of Rochester
 - ECE 449 - Digital Signal Processing
-- ECE 212 - Circuits and Microcontrollers
+- ECE 210 - Circuits and Microcontrollers
 - ECE 140 - Music Engineering
 
 ---
