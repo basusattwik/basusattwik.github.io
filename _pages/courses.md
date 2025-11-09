@@ -4,6 +4,20 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
+
+## Courses I Have TAed
+
+### University of Illinois Urbana-Champaign
+- [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-fa25) 
+- ECE 101 – Introduction to Digital Computing 
+
+### University of Rochester
+- ECE 449 - Digital Signal Processing
+- ECE 212 - Circuits and Microcontrollers
+- ECE 140 - Music Engineering
+
+---
+
 ## Courses Taken
 
 ### University of Illinois Urbana-Champaign
@@ -24,18 +38,6 @@ author_profile: true
 - ECE 475 – Audio Software Design 
 - ECE 479 - Audio Recording 
 
----
-
-## Courses I Have TAed
-
-### University of Illinois Urbana-Champaign
-- ECE 498/598 – Deep Generative Models 
-- ECE 101 – Introduction to Digital Computing
-
-### University of Rochester
-- ECE 449 - Digital Signal Processing
-- ECE 212 - Circuits and Microcontrollers
-- ECE 140 - Music Engineering
 
 ---
 
