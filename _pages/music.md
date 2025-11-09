@@ -8,15 +8,15 @@ author_profile: true
 ## Performances
 
 <div class="video-container">
-  <iframe 
-    src="https://youtu.be/rtqXNbGNs9Q?si=CKENMUUKwAy7gpDd" 
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/rtqXNbGNs9Q"
     title="YouTube video player"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
 
 I’ll upload more videos soon! :)
-
-
