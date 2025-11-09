@@ -12,8 +12,8 @@ main:
   # - title: "Experience"
   #   url: /experience/
 
-  # - title: "Courses"
-  #   url: /courses/
+  - title: "Courses"
+    url: /courses/
 
   #- title: "Teaching"
   # url: /teaching/    
