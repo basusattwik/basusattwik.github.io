@@ -12,7 +12,7 @@ author_profile: true
 - ECE 101 – Introduction to Digital Computing 
 
 ### University of Rochester
-- ECE 449 - Digital Signal Processing
+- ECE 446 - Digital Signal Processing
 - ECE 210 - Circuits and Microcontrollers
 - ECE 140 - Music Engineering
 
