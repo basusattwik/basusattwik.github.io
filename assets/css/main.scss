@@ -40,3 +40,18 @@ $link-color: #b36b00;
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// ---
+// // # Only needed if this is your main.scss
+// ---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Remove underlines/box-shadow from links in page content */
+.page__content a,
+a {
+  text-decoration: none;
+  box-shadow: none;
+  border-bottom: none;
+}

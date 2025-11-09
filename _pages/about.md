@@ -10,9 +10,9 @@ redirect_from:
 
 <div style="text-align: justify;" markdown="1">
 
-I am a Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) in the [Signals and Inference Research Group (SiNRG)](https://sinrg.csl.illinois.edu). My research focuses on **deep generative models**, **Markov Chain Monte Carlo** methods, and **signal processing**, with a current emphasis on **diffusion-based inverse problems** for spatial inference.
+I am a Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) in the [Signals and Inference Research Group (SiNRG)](https://sinrg.csl.illinois.edu). My research focuses on **Deep Generative Models** and **Markov Chain Monte Carlo** methods. I currently work on **Diffusion-based inverse problems** for spatial inference tasks.
 
-Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com) developing adaptive signal processing algorithms. I received my M.S. in [Electrical Engineering](http://www.hajim.rochester.edu/ece/) from the [University of Rochester](https://www.rochester.edu) and my B.Tech in Electrical & Electronics Engineering from [SRM University](https://www.srmist.edu.in), India. Outside research, I play classical piano and have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu/community/) and [K.M. Music Conservatory, India](https://www.kmmc.in).
+Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com) and developed adaptive signal processing algorithms. I received my M.S. in [Electrical Engineering](http://www.hajim.rochester.edu/ece/) from the [University of Rochester](https://www.rochester.edu) and my B.Tech in Electrical & Electronics Engineering from [SRM University](https://www.srmist.edu.in), India. Outside research, I play classical piano and have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu/community/) and [K.M. Music Conservatory, India](https://www.kmmc.in).
 
 </div>
 
