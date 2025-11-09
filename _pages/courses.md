@@ -7,7 +7,7 @@ author_profile: true
 
 ## Courses I Have TAed
 
-### University of Illinois Urbana-Champaign
+### University of at Illinois Urbana-Champaign
 - [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-fa25) 
 - ECE 101 – Introduction to Digital Computing 
 
@@ -20,7 +20,7 @@ author_profile: true
 
 ## Courses Taken
 
-### University of Illinois Urbana-Champaign
+### University of at Illinois Urbana-Champaign
 - ECE 449 – Machine Learning  
 - ECE 551 – Advanced Digital Signal Processing   
 - ECE 513 – Vector Space Signal Processing  
