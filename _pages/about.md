@@ -20,6 +20,7 @@ Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com
 
 ## Updates
 
+- **Jan 2026** — “Contrastive Diffusion Guidance for Spatial Inverse Problems” accepted at ICLR 2026. 
 - **May 2025** — “Can NeRFs See without Cameras?” accepted at NeurIPS 2025.  
 - **Dec 2024** — “Curvature-guided Langevin Monte Carlo” accepted at ICASSP 2025.  
 - **Dec 2023** — Passed the ECE Qual Exam.  
