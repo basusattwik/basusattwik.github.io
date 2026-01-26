@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
 **Sattwik Basu**, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
-ICLR, 2026.
+ICLR 2026.
 
 **Can NeRFs See without Cameras?** · [paper](https://arxiv.org/pdf/2505.22441) · [website](https://echonerf.github.io)  
 Chaitanya Amballa, **Sattwik Basu**, Yu-Lin Wei, Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
