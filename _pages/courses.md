@@ -9,7 +9,7 @@ author_profile: true
 
 ### University of Illinois at Urbana-Champaign
 - [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-fa25) 
-- ECE 101 – Introduction to Digital Computing 
+- ECE 101 – Introduction to Digital Computing [Outstanding Teacher Award]
 
 ### University of Rochester
 - ECE 446 - Digital Signal Processing
