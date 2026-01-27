@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 [**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
 ICLR 2026.
 
-**Inferring Indoor Layouts using Audio ** · [paper]()  
+**Inferring Indoor Layouts using Audio** · [paper]()  
 Zhijian Yang, [**Sattwik Basu**, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury  
 ACM HotMobile 2026.
 

@@ -24,5 +24,5 @@ Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com
 - **Dec 2025** — “Inferring Indoor Layouts using Audio” accepted at ACM HotMobile 2026. 
 - **May 2025** — “Can NeRFs See without Cameras?” accepted at NeurIPS 2025.  
 - **Dec 2024** — “Curvature-guided Langevin Monte Carlo” accepted at ICASSP 2025.  
-- **Dec 2023** — Passed the ECE Qual Exam.  
+- **Dec 2023** — Passed the ECE Qual Exam!  
 - **Aug 2022** — Joined the Ph.D. program in ECE at UIUC.
