@@ -14,11 +14,15 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 ## Recent Papers
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
-**Sattwik Basu**, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
+[**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
 ICLR 2026.
 
+**Inferring Indoor Layouts using Audio ** · [paper]()  
+Zhijian Yang, [**Sattwik Basu**, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury  
+ACM HotMobile 2026.
+
 **Can NeRFs See without Cameras?** · [paper](https://arxiv.org/pdf/2505.22441) · [website](https://echonerf.github.io)  
-Chaitanya Amballa, **Sattwik Basu**, Yu-Lin Wei, Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
+Chaitanya Amballa, [**Sattwik Basu**, Yu-Lin Wei], Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
 NeurIPS 2025.
 
 **Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo** · [paper](https://arxiv.org/pdf/2501.18178?) · [code](https://github.com/basusattwik/ChirpEstimation)  
