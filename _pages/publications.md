@@ -29,9 +29,9 @@ NeurIPS 2025.
 **Sattwik Basu**, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury  
 ICASSP 2025.
 
---- 
+<!-- ---  -->
 
-## Prior Publications
+<!-- ## Prior Publications
 
 **Study of the Effects of Active Noise Cancellation on Music Playback** · [paper](https://legacy.sae.org/publications/technical-papers/content/2021-01-1016/)  
 **Sattwik Basu**, Jeff Tackett, David Trumpy, Adam Walt, Santosh Adari  
@@ -59,4 +59,4 @@ US Patent 12,249,310
 
 **Virtual Location Noise Signal Estimation for Engine Order Cancellation**  
 **Sattwik Basu**, Jeffrey Tackett, David Trumpy, Todd Tousignant, James May  
-US Patent 11,183,166
+US Patent 11,183,166 -->
