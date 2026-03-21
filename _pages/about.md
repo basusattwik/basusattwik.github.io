@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: justify;" markdown="1">
 
 Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).<br>
-Advisor: Prof. [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) at [SiNRG](https://sinrg.csl.illinois.edu). 
+Advised by Prof. [Romit Roy Choudhury](http://croy.web.engr.illinois.edu), Signals & Inference Research Group [(SiNRG)](https://sinrg.csl.illinois.edu). 
 
 My research focuses on **Deep Generative Models**, particularly **Diffusion and Flow**-based approaches. I currently work on posterior sampling techniques for solving **Inverse Problems** with priors learned using diffusion/flow models.
 
