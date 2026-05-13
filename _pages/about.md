@@ -13,7 +13,7 @@ redirect_from:
 Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).<br>
 Advised by Prof. [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) @ [SiNRG](https://sinrg.csl.illinois.edu). 
 
-**Research**: I currently work on **Deep Generative Models**, particularly **Diffusion and Flow-matching** with applications in **posterior-sampling** and **inverse problems**.
+**Research**: I currently work on **Deep Generative Models**, particularly **Diffusion and Flows** with applications in **posterior-sampling** and **inverse problems**.
 
 Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com) and developed adaptive signal processing algorithms. I received my M.S. in [ECE](http://www.hajim.rochester.edu/ece/) from the [University of Rochester](https://www.rochester.edu) and B.Tech in EEE from [SRM University](https://www.srmist.edu.in), India. Outside research, I play classical piano and have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu) and [K.M. Music Conservatory, India](https://www.kmmc.in).
 
