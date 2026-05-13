@@ -23,13 +23,13 @@ Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com
 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
 
-- May 2026 — $\Delta$LPS pre-print out on ArXiv + joining Dolby as Research Intern! 
-- Feb 2026 — Won Best Poster award at ACM HotMobile 2026!
-- Jan 2026 — CoGuide accepted at ICLR 2026. 
-- Dec 2025 — EchoPlan accepted at ACM HotMobile 2026. 
-- May 2025 — EchoNeRF accepted at NeurIPS 2025.  
-- Dec 2024 — CG-LMC accepted at ICASSP 2025.  
-- Dec 2023 — Passed the ECE Qual Exam!  
-- Aug 2022 — Joined the Ph.D. program in ECE at UIUC.
+- May 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) preprint released on arXiv + starting a Research Internship at Dolby! 
+- Feb 2026: Won Best Poster award at ACM HotMobile 2026!
+- Jan 2026: [CoGuide](https://arxiv.org/abs/2509.26489) accepted at ICLR 2026. 
+- Dec 2025: [EchoPlan](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049) accepted at ACM HotMobile 2026. 
+- Sep 2025: [EchoNeRF](https://arxiv.org/abs/2505.22441) accepted at NeurIPS 2025.  
+- Dec 2024: [CG-LMC](https://arxiv.org/abs/2501.18178) accepted at ICASSP 2025.  
+- Dec 2023: Passed the ECE Qual Exam!  
+- Aug 2022: Joined the Ph.D. program in ECE at UIUC.
 
 </div>
