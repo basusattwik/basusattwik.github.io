@@ -21,10 +21,10 @@ Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com
 
 ## Updates
 
-<div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 0 1em; border-radius: 4px;" markdown="1">
+<div style="height: 200px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
 
 - May 2026 — $\Delta$LPS pre-print out on ArXiv + joining Dolby as Research Intern! 
-- Feb 2026 - Won Best Poster Award at ACM HotMobile 2026!
+- Feb 2026 — Won Best Poster award at ACM HotMobile 2026!
 - Jan 2026 — CoGuide accepted at ICLR 2026. 
 - Dec 2025 — EchoPlan accepted at ACM HotMobile 2026. 
 - May 2025 — EchoNeRF accepted at NeurIPS 2025.  
