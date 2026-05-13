@@ -21,6 +21,7 @@ Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com
 
 ## Updates
 
+- May 2026 — $\Delta$LPS pre-print out on ArXiv! 
 - Jan 2026 — CoGuide accepted at ICLR 2026. 
 - Dec 2025 — EchoPlan accepted at ACM HotMobile 2026. 
 - May 2025 — EchoNeRF accepted at NeurIPS 2025.  

@@ -13,11 +13,15 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ## Recent Papers
 
+**Discrete Langevin-Inspired Posterior Sampling** · [paper](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
+[Chaitanya Amballa, **Sattwik Basu**], Jorge Vančo Sampedro, Romit Roy Choudhury  
+arXiv preprint, 2026.
+
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
 [**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
 ICLR 2026.
 
-**Inferring Indoor Layouts using Audio** · [paper]()  
+**Inferring Indoor Layouts using Audio** · [paper](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049)  
 Zhijian Yang, [**Sattwik Basu**, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury  
 ACM HotMobile 2026.
 
