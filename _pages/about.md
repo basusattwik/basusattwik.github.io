@@ -22,7 +22,7 @@ Outside research, I play classical piano and have studied at the [Eastman School
 
 ## Updates
 
-<div style="height: 200px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
+<div style="height: 224px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
 
 - May 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) preprint released on arXiv + starting a Research Internship at Dolby! 
 - Feb 2026: Won Best Poster award at ACM HotMobile 2026!

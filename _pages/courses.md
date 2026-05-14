@@ -8,8 +8,28 @@ author_profile: true
 ## Teaching Assistant
 
 ### University of Illinois at Urbana-Champaign
+- [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-sp26) 
+- ECE 101 – Introduction to Digital Computing [**Outstanding Teacher** Award]
+---
+
+## Selected Courses
+- Machine Learning  
+- Advanced Digital Signal Processing   
+- Vector Space Signal Processing  
+- Random Processes   
+- Information Theory 
+- Optimization  
+- Machine Learning for Audio  
+- Digital Signal Processing
+- Audio Signal Processing   
+- Acoustics   
+---
+
+<!-- ## Teaching Assistant
+
+### University of Illinois at Urbana-Champaign
 - [ECE 498/598 – Deep Generative Models](https://rrc-uiuc.notion.site/gen-models-fa25) 
-- ECE 101 – Introduction to Digital Computing [Outstanding Teacher Award]
+- ECE 101 – Introduction to Digital Computing [**Outstanding Teacher** Award]
 
 ### University of Rochester
 - ECE 446 - Digital Signal Processing
@@ -18,7 +38,7 @@ author_profile: true
 
 ---
 
-## Courses Taken
+## Selected Courses Taken
 
 ### University of Illinois at Urbana-Champaign
 - ECE 449 – Machine Learning  
@@ -37,7 +57,5 @@ author_profile: true
 - ECE 440 – Random Processes   
 - ECE 475 – Audio Software Design 
 - ECE 479 - Audio Recording 
-
-
----
+--- -->
 
