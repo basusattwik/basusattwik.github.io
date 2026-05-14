@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 ## Recent Papers
 
 **Discrete Langevin-Inspired Posterior Sampling** · [paper](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
-[Chaitanya Amballa, **Sattwik Basu**], Jorge Vančo Sampedro, Romit Roy Choudhury  
+[**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
 arXiv preprint, 2026.
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
