@@ -13,7 +13,7 @@ redirect_from:
 Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).<br>
 Advised by Prof. [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) @ [SiNRG](https://sinrg.csl.illinois.edu). 
 
-**Research**: I work on using **Deep Generative Models**, particularly **Diffusion and Flows**, to solve various inverse problems such as image restoration, audio enhancement, and spatial mapping. 
+**Research**: I work on using **Deep Generative Models**, particularly **Diffusion and Flows**, to solve various inverse problems such as image restoration, audio enhancement, and spatial mapping. Prior to this I have worked on MCMC methods and adaptive signal processing algorithms for audio. 
 
 <!-- Previously, I worked as an Audio DSP Engineer at [HARMAN](https://www.harman.com) and developed adaptive signal processing algorithms. I received my M.S. in [ECE](http://www.hajim.rochester.edu/ece/) from the [University of Rochester](https://www.rochester.edu) and B.Tech in EEE from [SRM University](https://www.srmist.edu.in), India.  -->
 Outside research, I play classical piano and have studied at the [Eastman School of Music, Community Center](https://www.esm.rochester.edu) and [K.M. Music Conservatory, India](https://www.kmmc.in).
