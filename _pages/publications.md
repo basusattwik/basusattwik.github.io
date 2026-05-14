@@ -15,23 +15,23 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 **Discrete Langevin-Inspired Posterior Sampling** · [paper](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
 [**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
-arXiv preprint, 2026.
+<strong style="color:#555555;">arXiv preprint, 2026.</strong>
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
 [**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
-ICLR 2026.
+<strong style="color:#555555;">ICLR 2026.</strong>
 
 **Inferring Indoor Layouts using Audio** · [paper](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049)  
 Zhijian Yang, [**Sattwik Basu**, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury  
-ACM HotMobile 2026.
+<strong style="color:#555555;">ACM HotMobile 2026.</strong>
 
 **Can NeRFs See without Cameras?** · [paper](https://arxiv.org/pdf/2505.22441) · [website](https://echonerf.github.io)  
 Chaitanya Amballa, [**Sattwik Basu**, Yu-Lin Wei], Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
-NeurIPS 2025.
+<strong style="color:#555555;">NeurIPS 2025.</strong>
 
 **Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo** · [paper](https://arxiv.org/pdf/2501.18178?) · [code](https://github.com/basusattwik/ChirpEstimation)  
 **Sattwik Basu**, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury  
-ICASSP 2025.
+<strong style="color:#555555;">ICASSP 2025.</strong>
 
 <!-- ---  -->
 
