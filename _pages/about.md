@@ -24,7 +24,7 @@ Outside research, I play classical piano and have studied at the [Eastman School
 
 <div style="height: 224px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
 
-- May 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) preprint released on arXiv + starting a Research Internship at Dolby! 
+- May 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) accepted at [ICML 2026 SPIGM](https://spigmworkshop2026.github.io) + Research Internship at Dolby! 
 - Feb 2026: Won Best Poster award at ACM HotMobile 2026!
 - Jan 2026: [CoGuide](https://arxiv.org/abs/2509.26489) accepted at ICLR 2026. 
 - Dec 2025: [EchoPlan](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049) accepted at ACM HotMobile 2026. 
