@@ -13,9 +13,13 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ## Recent Papers
 
-**Discrete Langevin-Inspired Posterior Sampling** · [paper](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
+**Discrete Langevin-Inspired Posterior Sampling** · [paper](https://openreview.net/forum?id=pAi4zpf5uc) · [arXiv](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
 [**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">arXiv preprint, 2026.</span>
+<span style="color:#888888; font-weight:600;">ICML 2026, SPIGM Workshop.</span>
+
+**Blind Audio Restoration using Contrastive Diffusion Guidance** · [website](https://audio-coguide.github.io)  
+**Sattwik Basu**, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury   
+<span style="color:#888888; font-weight:600;">ICML 2026, ML for Audio Workshop.</span>
 
 **Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
 [**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
