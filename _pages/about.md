@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify;" markdown="1">
 
-Ph.D. student in [ECE](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).<br>
+PhD student in [ECE](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).<br>
 Advised by Prof. [Romit Roy Choudhury](http://croy.web.engr.illinois.edu) @ [SiNRG](https://sinrg.csl.illinois.edu). 
 
 **Research**: I work on **Deep Generative Models**, particularly **Diffusion and Flows**, for solving various inverse problems such as image restoration, audio enhancement, and spatial mapping. Prior to this, I have worked on MCMC methods and adaptive signal processing algorithms. 
@@ -24,16 +24,16 @@ Outside research, I play classical piano and have studied at the [Eastman School
 
 <div style="height: 224px; overflow-y: auto; border: 1px solid #e0e0e0; border-left: 3px solid #6c8ebf; padding: 0.25em 1em; border-radius: 6px; background: #f9f9f9; box-shadow: inset 0 1px 3px rgba(0,0,0,0.06); font-size: 0.95em;" markdown="1">
 
-- July 2026: [AudioCoGuide](https://audio-coguide.github.io) accepted at [ICML 2026 ML4Audio](https://mlforaudioworkshop.github.io)
-- June 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) accepted at [ICML 2026 SPIGM](https://spigmworkshop2026.github.io) 
-- May 2026: Starting a Ph.D. Research Internship with Dolby's Advanced Technology Group!
+- July 2026: [AudioCoGuide](https://audio-coguide.github.io) accepted at [ICML 2026 ML4Audio](https://mlforaudioworkshop.github.io).
+- June 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) accepted at [ICML 2026 SPIGM](https://spigmworkshop2026.github.io).
+- May 2026: Starting as a PhD Research Intern at [Dolby](https://www.dolby.com) - Advanced Technology Group.
 - Feb 2026: Won Best Poster Award + presented [EchoPlan](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049) at ACM HotMobile 2026!
 - Jan 2026: [CoGuide](https://arxiv.org/abs/2509.26489) accepted at ICLR 2026. 
 - Sep 2025: [EchoNeRF](https://arxiv.org/abs/2505.22441) accepted at NeurIPS 2025.  
 - May 2025: Rated Outstanding on the List of Excellent Teachers at UIUC!  
 - Dec 2024: [CG-LMC](https://arxiv.org/abs/2501.18178) accepted at ICASSP 2025.  
 - Dec 2023: Passed the ECE Qual Exam!  
-- Aug 2022: Starting my Ph.D. in ECE at UIUC!
-- July 2022: GitHub repo for multiple [ANC algorithms in MATLAB](https://github.com/basusattwik/ActiveNoiseCancellation)
+- Aug 2022: Starting my PhD in ECE at UIUC!
+- July 2022: GitHub repo with multiple [ANC algorithms in MATLAB](https://github.com/basusattwik/ActiveNoiseCancellation).
 
 </div>
