@@ -26,7 +26,7 @@ Outside research, I play classical piano and have studied at the [Eastman School
 
 - July 2026: [AudioCoGuide](https://audio-coguide.github.io) accepted at [ICML 2026 ML4Audio](https://mlforaudioworkshop.github.io).
 - June 2026: [$\Delta$LPS](https://arxiv.org/abs/2605.09302) accepted at [ICML 2026 SPIGM](https://spigmworkshop2026.github.io).
-- May 2026: Starting as a PhD Research Intern at [Dolby](https://www.dolby.com) - Advanced Technology Group.
+- May 2026: Starting as PhD Research Intern at [Dolby](https://www.dolby.com) - Advanced Technology Group.
 - Feb 2026: Won Best Poster Award + presented [EchoPlan](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049) at ACM HotMobile 2026!
 - Jan 2026: [CoGuide](https://arxiv.org/abs/2509.26489) accepted at ICLR 2026. 
 - Sep 2025: [EchoNeRF](https://arxiv.org/abs/2505.22441) accepted at NeurIPS 2025.  
