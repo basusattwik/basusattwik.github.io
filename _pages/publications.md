@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 [**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
 <span style="color:#888888; font-weight:600;">ICML 2026, SPIGM Workshop.</span>
 
-**Blind Audio Restoration using Contrastive Diffusion Guidance** · [website](https://audio-coguide.github.io)  
+**Blind Audio Restoration using Contrastive Diffusion Guidance** · [paper](/files/PDFs/AudioCoGuide.pdf) · [website](https://audio-coguide.github.io)  
 **Sattwik Basu**, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury   
 <span style="color:#888888; font-weight:600;">ICML 2026, ML for Audio Workshop.</span>
 
