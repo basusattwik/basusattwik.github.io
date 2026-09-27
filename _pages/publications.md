@@ -13,33 +13,77 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 ## Recent Papers
 
-**Discrete Langevin-Inspired Posterior Sampling** · [paper](https://openreview.net/forum?id=pAi4zpf5uc) · [arXiv](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
-[**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">NeurIPS 2026.</span>
+<div class="publication-list">
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/dlps2.png" alt="Preview for Discrete Langevin-Inspired Posterior Sampling">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Discrete Langevin-Inspired Posterior Sampling</h3>
+			<p class="publication-card__links"><a href="https://openreview.net/forum?id=pAi4zpf5uc">paper</a> &middot; <a href="https://arxiv.org/abs/2605.09302">arXiv</a> &middot; <a href="https://discretelps.github.io">website</a></p>
+			<p class="publication-card__authors">[<strong>Sattwik Basu</strong>, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">NeurIPS 2026.</p>
+		</div>
+	</article>
 
-**Blind Audio Restoration using Contrastive Diffusion Guidance** · [paper](/files/PDFs/AudioCoGuide.pdf) · [website](https://audio-coguide.github.io)  
-**Sattwik Basu**, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury   
-<span style="color:#888888; font-weight:600;">ICML 2026, ML for Audio Workshop.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/audiocoguide.png" alt="Preview for Blind Audio Restoration using Contrastive Diffusion Guidance">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Blind Audio Restoration using Contrastive Diffusion Guidance</h3>
+			<p class="publication-card__links"><a href="/files/PDFs/AudioCoGuide.pdf">paper</a> &middot; <a href="https://audio-coguide.github.io">website</a></p>
+			<p class="publication-card__authors"><strong>Sattwik Basu</strong>, Chaitanya Amballa, Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">ICML 2026, ML for Audio Workshop.</p>
+		</div>
+	</article>
 
-**Discrete Langevin-Inspired Posterior Sampling** · [paper](https://openreview.net/forum?id=pAi4zpf5uc) · [arXiv](https://arxiv.org/abs/2605.09302) · [website](https://discretelps.github.io)  
-[**Sattwik Basu**, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">ICML 2026, SPIGM Workshop.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/dlps.png" alt="Preview for Discrete Langevin-Inspired Posterior Sampling">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Discrete Langevin-Inspired Posterior Sampling</h3>
+			<p class="publication-card__links"><a href="https://openreview.net/forum?id=pAi4zpf5uc">paper</a> &middot; <a href="https://arxiv.org/abs/2605.09302">arXiv</a> &middot; <a href="https://discretelps.github.io">website</a></p>
+			<p class="publication-card__authors">[<strong>Sattwik Basu</strong>, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">ICML 2026, SPIGM Workshop.</p>
+		</div>
+	</article>
 
-**Contrastive Diffusion Guidance for Spatial Inverse Problems** · [paper](https://arxiv.org/pdf/2509.26489?) · [website](https://coguide.github.io)  
-[**Sattwik Basu**, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">ICLR 2026.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/coguide.png" alt="Preview for Contrastive Diffusion Guidance for Spatial Inverse Problems">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Contrastive Diffusion Guidance for Spatial Inverse Problems</h3>
+			<p class="publication-card__links"><a href="https://arxiv.org/pdf/2509.26489?">paper</a> &middot; <a href="https://coguide.github.io">website</a></p>
+			<p class="publication-card__authors">[<strong>Sattwik Basu</strong>, Chaitanya Amballa], Zhongweiyang Xu, Jorge Vančo Sampedro, Srihari Nelakuditi, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">ICLR 2026.</p>
+		</div>
+	</article>
 
-**Inferring Indoor Layouts using Audio** · [paper](https://dl.acm.org/doi/pdf/10.1145/3789514.3792049)  
-Zhijian Yang, [**Sattwik Basu**, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">ACM HotMobile 2026.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/echoplan.png" alt="Preview for Inferring Indoor Layouts using Audio">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Inferring Indoor Layouts using Audio</h3>
+			<p class="publication-card__links"><a href="https://dl.acm.org/doi/pdf/10.1145/3789514.3792049">paper</a></p>
+			<p class="publication-card__authors">Zhijian Yang, [<strong>Sattwik Basu</strong>, Chaitanya Amballa], Debottam Dutta, Srihari Nelakuditi, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">ACM HotMobile 2026.</p>
+		</div>
+	</article>
 
-**Can NeRFs See without Cameras?** · [paper](https://arxiv.org/pdf/2505.22441) · [website](https://echonerf.github.io)  
-Chaitanya Amballa, [**Sattwik Basu**, Yu-Lin Wei], Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">NeurIPS 2025.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/echonerf.png" alt="Preview for Can NeRFs See without Cameras?">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Can NeRFs See without Cameras?</h3>
+			<p class="publication-card__links"><a href="https://arxiv.org/pdf/2505.22441">paper</a> &middot; <a href="https://echonerf.github.io">website</a></p>
+			<p class="publication-card__authors">Chaitanya Amballa, [<strong>Sattwik Basu</strong>, Yu-Lin Wei], Zhijian Yang, Mehmet Ergezer, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">NeurIPS 2025.</p>
+		</div>
+	</article>
 
-**Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo** · [paper](https://arxiv.org/pdf/2501.18178?) · [code](https://github.com/basusattwik/ChirpEstimation)  
-**Sattwik Basu**, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury  
-<span style="color:#888888; font-weight:600;">ICASSP 2025.</span>
+	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/cglmc.png" alt="Preview for Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo</h3>
+			<p class="publication-card__links"><a href="https://arxiv.org/pdf/2501.18178?">paper</a> &middot; <a href="https://github.com/basusattwik/ChirpEstimation">code</a></p>
+			<p class="publication-card__authors"><strong>Sattwik Basu</strong>, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury</p>
+			<p class="publication-card__venue">ICASSP 2025.</p>
+		</div>
+	</article>
+</div>
 
 <!-- ---  -->
 
