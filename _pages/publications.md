@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,8 +10,6 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 {% endif %}
 
 ---
-
-## Recent Papers
 
 <div class="publication-list">
 	<article class="publication-card">
