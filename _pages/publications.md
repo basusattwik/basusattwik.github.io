@@ -13,6 +13,16 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 
 <div class="publication-list">
 	<article class="publication-card">
+		<img class="publication-card__image" src="/images/publications/aura.png" alt="Preview for Aura: Controllable Mono-to-Stereo Generation using Reward-tilted Flows">
+		<div class="publication-card__body">
+			<h3 class="publication-card__title">Aura: Controllable Mono-to-Stereo Generation using Reward-tilted Flows</h3>
+			<p class="publication-card__links"><a href="https://basusattwik.github.io/aura-demo/">demo</a></p>
+			<p class="publication-card__authors"><strong>Sattwik Basu</strong>, Gautam Bhattacharya, Alan Seefeldt</p>
+			<p class="publication-card__venue">Under review.</p>
+		</div>
+	</article>
+
+	<article class="publication-card">
 		<img class="publication-card__image" src="/images/publications/dlps2.png" alt="Preview for Discrete Langevin-Inspired Posterior Sampling">
 		<div class="publication-card__body">
 			<h3 class="publication-card__title">Discrete Langevin-Inspired Posterior Sampling</h3>
