@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 	<article class="publication-card">
 		<img class="publication-card__image" src="/images/publications/aura.png" alt="Preview for Aura: Controllable Mono-to-Stereo Generation using Reward-tilted Flows">
 		<div class="publication-card__body">
-			<h3 class="publication-card__title">Aura: Controllable Mono-to-Stereo Generation using Reward-tilted Flows</h3>
+			<h3 class="publication-card__title">Aura: Controllable Mono-to-Stereo Upmixing using Reward-tilted Flows</h3>
 			<p class="publication-card__links"><a href="">arXiv</a> &middot; <a href="https://basusattwik.github.io/aura-demo/">website</a></p>
 			<p class="publication-card__authors"><strong>Sattwik Basu</strong>, Gautam Bhattacharya, Alan Seefeldt</p>
 			<p class="publication-card__venue">Under review, Sep 2026</p>
