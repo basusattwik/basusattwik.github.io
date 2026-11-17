@@ -23,11 +23,11 @@ You can also find my articles on <u><a href="{{ author.googlescholar }}">my Goog
 	</article>
 
 	<article class="publication-card">
-		<img class="publication-card__image" src="/images/publications/dlps2.png" alt="Preview for Discrete Langevin-Inspired Posterior Sampling">
+		<img class="publication-card__image" src="/images/publications/dlps2.png" alt="Preview for Discrete-Diffusion Posterior Sampling with Langevin-Inspired Proposals">
 		<div class="publication-card__body">
-			<h3 class="publication-card__title">Discrete Langevin-Inspired Posterior Sampling</h3>
-			<p class="publication-card__links"><a href="https://openreview.net/forum?id=pAi4zpf5uc">paper</a> &middot; <a href="https://arxiv.org/abs/2605.09302">arXiv</a> &middot; <a href="https://discretelps.github.io">website</a></p>
-			<p class="publication-card__authors">[<strong>Sattwik Basu</strong>, Chaitanya Amballa], Jorge Vančo Sampedro, Romit Roy Choudhury</p>
+			<h3 class="publication-card__title">Discrete-Diffusion Posterior Sampling with Langevin-Inspired Proposals</h3>
+			<p class="publication-card__links"><a href="https://openreview.net/pdf?id=E9UMLvG2aa">paper</a> &middot; <a href="https://arxiv.org/abs/2605.09302">arXiv</a> &middot; <a href="https://discretelps.github.io">website</a></p>
+			<p class="publication-card__authors">[Chaitanya Amballa, <strong>Sattwik Basu</strong>], Jorge Vančo Sampedro, Romit Roy Choudhury</p>
 			<p class="publication-card__venue">NeurIPS 2026.</p>
 		</div>
 	</article>
